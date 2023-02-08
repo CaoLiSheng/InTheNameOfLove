@@ -1,0 +1,22 @@
+{
+  "name": "inthenameoflove",
+  "version": "1.0.0",
+  "description": "以爱为名。In the name of love.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaoLiSheng/InTheNameOfLove.git"
+  },
+  "author": "曹力升",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaoLiSheng/InTheNameOfLove/issues"
+  },
+  "homepage": "https://github.com/CaoLiSheng/InTheNameOfLove#readme",
+  "devDependencies": {
+    "electron": "^22.0.3"
+  }
+}
